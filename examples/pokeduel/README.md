@@ -17,7 +17,7 @@ Este repositório contém o código-fonte do Pokemon Duel, projeto desenvolvido 
 
 ### :detective: **Descrição** :detective:
 
-A implementação consiste em uma cena de batalha de duplas entre Pokemons e seus respectivos treinadores em um ginásio Pokemon. Para tal, utilizar-se-á, modelos (arquivos .obj) retirados de fontes da internet e aplicamos conceitos iniciais de renderização visto nas aulas anteriores, bem como manipulação do modelo e atributos como translation, rotation e scale. Os modelos, por sua vez, foram criados por seus autores baseado no pipeline gráfico do OpenGL, a partir de arranjos de vértices. 
+A implementação consiste em uma cena de batalha de duplas entre Pokemons e seus respectivos treinadores em um ginásio Pokemon. Para tal, utilizar-se-á modelos (arquivos .obj) retirados de fontes da internet e aplicamos conceitos iniciais de renderização visto nas aulas anteriores, bem como manipulação do modelo e atributos como translation, rotation e scale. Os modelos, por sua vez, foram criados por seus autores baseado no pipeline gráfico do OpenGL, a partir de arranjos de vértices. 
 Tendo em vista que para utilizar os modelos são necessárias variáveis de matrizes, alguns conceitos como escala e translação foram necessários para posicionar de forma adequada os personagens na tela.
 
 Por fim, destaca-se a criação de uma câmera LookAt, tal como visto em aula, que basicamente contém três propriedades: m_eye, m_at e m_up. A primeira corresponde à posição da câmera no mundo, m_at a posição onde a câmera está olhando, e m_up a direção que aponta para cima. Vale ressaltar que a direção do sistema respeita a regra da mão direita, conceito que foi importante principalmente para aplicar rotações.

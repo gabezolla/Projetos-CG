@@ -7,7 +7,7 @@ Autores: **Gabriel Zolla Juarez - RA: 11201721446**
 
 **Link do repositório do código-fonte:** https://github.com/gabezolla/Projetos-CG/tree/main/examples/pokeduel
 
-**Link para o vídeo demonstrativo:** https://youtu.be/PAA6el45YL8
+**Link para o vídeo demonstrativo:** https://youtu.be/lNZSyJzuRrk
 
 Este repositório contém o código-fonte do Pokemon Duel, projeto desenvolvido para a disciplina de Computação Gráfica, ministrada pelo Prof. Bruno Dorta. Como referência, utilizou-se conceitos de matrizes, câmera LookAt, e espaços vetoriais, visto durante as aulas, bem como as bibliotecas **abcg** e o **ImGui**, aliadas ao OpenGL.
 

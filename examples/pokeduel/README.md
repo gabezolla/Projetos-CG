@@ -1,11 +1,11 @@
-# Aim Elite - Practice your Aim
-### Projeto 1 - Computação Gráfica
+# Pokemon Battle
+### Projeto 2 - Computação Gráfica
 
 Autores: **Gabriel Zolla Juarez - RA: 11201721446**
 
 **Pedro Henrique Batistela Lopes - RA: 11201722043**
 
-**Link do repositório do código-fonte:** https://github.com/gabezolla/abcg/tree/main/examples/pokeduel
+**Link do repositório do código-fonte:** https://github.com/gabezolla/Projetos-CG/tree/main/examples/pokeduel
 
 **Link para a página Web com a aplicação em WebAssembly:** https://gabezolla.github.io/abcg/pokeduel/
 
